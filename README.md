@@ -1,2 +1,3 @@
 # OP-Cookie-Clicker-Save
 More money than you can count
+Just download/copy this file then, import the save into cookie clicker...
